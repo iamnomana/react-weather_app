@@ -1,5 +1,11 @@
+import SearchMain from "./components/SearchMain";
+
 const App = () => {
-  return <></>;
+  return (
+    <>
+      <SearchMain />
+    </>
+  );
 };
 
 export default App;
